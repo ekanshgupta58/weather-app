@@ -1,0 +1,3 @@
+if(!wrapper 
+                || !wrapper.attr('data-path') 
+                || !wrapper.attr('data-path').startsWith('/conf/global/settings/dam/adminui-extension/metadataschema/stargate')) return;
